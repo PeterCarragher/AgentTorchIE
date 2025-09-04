@@ -4,7 +4,9 @@ from pandas import merge as pandas_merge
 from pandas import DataFrame, concat
 from numpy.random import randint as numpy_randint
 from numpy.random import choice as numpy_choice
-from numpy import NaN, isnan
+import numpy as np
+NaN = np.nan
+from numpy import isnan
 import ray
 import logging
 from datetime import datetime

@@ -7,7 +7,8 @@ from datetime import datetime
 from logging import getLogger
 
 import ray
-from numpy import NaN
+import numpy as np
+NaN = np.nan
 from pandas import DataFrame
 
 logger = getLogger()

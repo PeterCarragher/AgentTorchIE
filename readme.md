@@ -62,7 +62,7 @@ Alternately, the easiest way to install AgentTorch (v0.6.0) is from pypi:
 > pip install agent-torch
 ```
 
-> AgentTorch is meant to be used in a 3.12>Python >3.9 environment. If you have not
+> AgentTorch is meant to be used in a python 3.10.13 environment. If you have not
 > installed Python 3.9, please do so first from
 > [python.org/downloads](https://www.python.org/downloads/).
 

@@ -4,6 +4,14 @@
 
 This document outlines the integration plan for combining the Sociologically-Informed Neural Networks (SINN) opinion dynamics model with the AgentTorch FLAME framework. The goal is to replace epidemiological models with end-to-end differentiable opinion dynamics models capable of scaling to millions of agents.
 
+## Installation
+```
+conda create python=3.10.13 -n agent_torch_4
+conda activate agent_torch_4
+pip install -r requirements.txt
+
+```
+
 ## Background
 
 ### FLAME Framework (AgentTorch)
