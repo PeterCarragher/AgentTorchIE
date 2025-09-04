@@ -1,0 +1,3 @@
+[submodule "opinion_dynamics"]
+	path = opinion_dynamics
+	url = https://github.com/mayaokawa/opinion_dynamics.git
